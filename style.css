@@ -179,7 +179,7 @@
 
 #content__filter_item_selected::before {
     content: ' ';
-    background-image: url(../images/main/Unicorn.svg);
+    background-image: url(Unicorn.svg);
     width: 20px;
     height: 20px;
 }
